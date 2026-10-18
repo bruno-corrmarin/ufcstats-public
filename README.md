@@ -131,7 +131,7 @@ UFC is a registered trademark of Zuffa, LLC. All other names and marks belong to
 
 All fight and fighter data belongs to its respective owners. I claim no ownership of it, and this project is not used for profit or any commercial purpose.
 
-This repository contains only source code and a database schema. No scraped data is included or redistributed. The scraper is rate-limited to one request every 5 seconds to avoid placing load on the source site.
+This repository contains only source code and a database schema. No scraped data is included or redistributed. The current scraper is rate-limited to one request every 5 seconds to avoid placing load on the source site.
 
 Data collected by this project may be incomplete or inaccurate, and nothing in this project is betting or financial advice.
 
